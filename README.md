@@ -2,8 +2,7 @@
 [![ Schmuckstuck Github banner](./profile1.jpg)]
 -->
 ![Schmuckstuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schmuckstuck&show_icons=true&theme=tokyonight)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schmuckstuck&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schmuckstuck&layout=compact&theme=tokyonight)]<br/>
 <!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adatan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adatan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
