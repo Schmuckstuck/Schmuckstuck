@@ -1,19 +1,13 @@
 <!--
 [![ Schmuckstuck Github banner](./profile1.jpg)]
 -->
-![Schmuckstuck's GitHub stats](https://github-readme-stats.vercel.app/api?username=Schmuckstuck&show_icons=true&theme=radical)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Schmuckstuck&layout=compact&theme=radical)<br/>
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adatan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adatan&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-- 👋 Hi, I’m @Schmuckstuck
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
--->
-<!---
-Schmuckstuck/Schmuckstuck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📈 GitHub Stats
+<p align="center">
+  <table>
+  <tr>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=Schmuckstuck&hide_border=true&count_private=false&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Schmuckstuck&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117" /></td>
+  </tr>   
+</table>
+</p>
